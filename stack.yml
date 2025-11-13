@@ -4,7 +4,7 @@ version: "3.8"
 
 services:
   tonyapp:
-    image: tonyimg:latest
+    image: ghcr.io/antonymena999/tonyimg:latest
     deploy:
       replicas: 1
       labels:
