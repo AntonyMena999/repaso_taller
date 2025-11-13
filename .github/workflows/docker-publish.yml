@@ -35,4 +35,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            ghcr.io/AntonyMena999/tonyimg:latest
+            ghcr.io/antonyMena999/tonyimg:latest
